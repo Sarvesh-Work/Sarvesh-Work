@@ -7,7 +7,7 @@
 <h3 align="center">A Passionate Software Developer and MERN Stack Developer</h3>
 
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="340">
 
 - 🌱 I’m currently learning **Next.js , Java**
 
