@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sarvesh Munde</h1>
-<h3 align="center">A Passionate Software Developer and MERN Stack Developer</h3>
+<h3 align="center">"MERN Stack Aficionado | On a Journey with Next.js & Java | Building the Future, One Line at a Time"</h3>
 
 
 
