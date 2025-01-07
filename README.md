@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Munde</h1>
 <h3 align="center">"MERN Stack Aficionado | Exploring Spring & Java | Building the Future, One Line at a Time"</h3>
 
-- 🌱 I’m currently learning **React Native** 
+- 🌱 I’m currently learning **React Native** and **DevOps**
 - 📫 How to reach me: **sarveshmunde10@gmail.com**
 
 ## 🌐 Socials
