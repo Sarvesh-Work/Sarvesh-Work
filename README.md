@@ -1,38 +1,60 @@
-[![MasterHead](https://sitegalleria.com/wp-content/uploads/2019/08/web-development-company-bangalore.jpg)]()
+<h1 align="center"><strong>👋 Hi, I'm Sarvesh Munde</strong></h1>
+<h3 align="center">MERN Stack Developer | Exploring DevOps | Passionate Coder 🚀</h3>
 
-<h1 align="center">Hi 👋, I'm Sarvesh Munde</h1>
-<h3 align="center">"MERN Stack Aficionado | Exploring Spring & Java | Building the Future, One Line at a Time"</h3>
+---
 
-- 🌱 I’m currently learning **DevOps**
-- 📫 How to reach me: **sarveshmunde10@gmail.com**
+## 🌱 Currently Exploring
+- **DevOps** 🚀 (CI/CD, Docker, Kubernetes, etc.)
+- **Python** 🐍 for scripting & automation
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshmunde)
+---
 
-## 💻 Tech Stack
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshmunde)
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
 
-### Tools
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=for-the-badge&logo=eclipse&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=22&style=for-the-badge&color=2E3A59) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&logoWidth=22&style=for-the-badge&color=000000)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&logoWidth=22&style=for-the-badge&color=F4E1D2)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&logoWidth=22&style=for-the-badge&color=F25F5C)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white&logoWidth=22&style=for-the-badge&color=536DFE)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=22&style=for-the-badge&color=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=22&style=for-the-badge&color=563D7C)
+
+### 🧩 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=22&style=for-the-badge&color=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=22&style=for-the-badge&color=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=22&style=for-the-badge&color=47A248)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white&logoWidth=22&style=for-the-badge&color=010101)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&logoWidth=22&style=for-the-badge&color=764ABC)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=tanstack-query&logoColor=white&logoWidth=22&style=for-the-badge&color=010101)
+
+### 🐍 Scripting & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=22&style=for-the-badge&color=3776AB)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white&logoWidth=22&style=for-the-badge&color=333333)
+
+### 🧰 Tools & Platforms
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=22&style=for-the-badge&color=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=22&style=for-the-badge&color=007ACC)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=22&style=for-the-badge&color=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=22&style=for-the-badge&color=181717)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&logoWidth=22&style=for-the-badge&color=CB3837)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&logoWidth=22&style=for-the-badge&color=2C2255)
+
+---
 
 ## 📊 GitHub Stats
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300">
 
-![](https://github-readme-stats.vercel.app/api?username=Sarvesh-Work&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-Work&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-Work&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
 
+![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarvesh-Work&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-Work&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-Work&theme=dark&hide_border=false&layout=compact)
 
+---
 
-
-
-
-
-
-
-
+<p align="center"><strong>“Code. Learn. Build. Repeat.” 💻</strong></p>
